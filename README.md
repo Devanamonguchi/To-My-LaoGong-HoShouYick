@@ -22,14 +22,13 @@ https://<your-github-username>.github.io/<repository-name>/
 - Click on the "Code" button and select "Download ZIP".
 - Extract the downloaded ZIP file to your computer.
 
-2. **Locate the HTML File**: Open the extracted folder and locate the `special_message.html` file.
+2. **Locate the HTML File**: Open the extracted folder and locate the `To-My-LaoGong-HoShouYick.html` file.
 
 3. **Open the HTML File**:
-- Right-click on the `special_message.html` file.
+- Right-click on the `To-My-LaoGong-HoShouYick.html` file.
 - Select "Open with" and choose your preferred web browser (e.g., Google Chrome, Firefox, Edge).
 
 4. **Enjoy the Message!** (The HTML file should open in your web browser.)
-
 
 
 ## Message
@@ -38,8 +37,8 @@ Meeting you at the UC Badminton Club was the best thing that ever happened to me
 
 On your special day, I want you to know how much I love and appreciate you. I can't wait to create more beautiful memories together in the future.
 
-With all my love,  
-Your BǎoBǎo, Devana
+xoxo
+your babi <3
 
 
 
